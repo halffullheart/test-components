@@ -1,0 +1,16 @@
+{
+  "name": "test-components",
+  "version": "0.0.1",
+  "description": "Test Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsx-loader": "^0.13.2",
+    "react": "^0.13.3",
+    "webpack": "^1.12.1"
+  }
+}

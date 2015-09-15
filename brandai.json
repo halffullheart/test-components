@@ -1,0 +1,7 @@
+{
+	"name": "test-components",
+	"version": "0.0.3",
+	"dist": "dist",
+	"components": "src/*.jsx",
+	"libraryObjectName": "TestComponents"
+}

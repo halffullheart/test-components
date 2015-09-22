@@ -1,8 +1,8 @@
-var react = require('react');
+var React = require('react');
 
 var List = React.createClass({
   propTypes: {
-    items: React.PropTypes.array
+    items: React.PropTypes.array.isRequired
   },
   render: function() {
     return (
